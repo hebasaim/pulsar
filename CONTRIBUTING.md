@@ -22,5 +22,5 @@
 ## Contributing to Apache Pulsar
 
 We would love for you to contribute to Apache Pulsar and make it even better!
-Please check the [Contributing to Apache Pulsar](https://pulsar.apache.org/community#section-contribute/) 
+Please check the [Contributing to Please check the [Contributing to Apache Pulsar](https://pulsar.apache.org/community#section-contribute/) Pulsar](https://pulsar.apache.org/community#section-contribute/) 
 page before starting to work on the project.
